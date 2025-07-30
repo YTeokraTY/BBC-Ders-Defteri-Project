@@ -25,9 +25,12 @@ The GUI is built using the Tkinter library, and data is stored in `.json` files.
 
 To run the app:
 > python main.py
-## Download
 
-You can download the latest release from [here](https://github.com/YTeokraTY/BBC-Ders-Defteri-Project/releases/latest/download/project.zip).
+## 📥 Download
+
+You can download the entire project as a ZIP file here:  
+[Download ZIP](https://github.com/YTeokraTY/BBC-Ders-Defteri-Project/archive/refs/heads/main.zip)
+
 
 👤 Created by YTeokraTY
 
